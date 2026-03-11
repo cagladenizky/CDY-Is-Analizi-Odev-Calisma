@@ -1,0 +1,10 @@
+![](images/IMG_3171.jpeg){width="400"}
+
+---
+title: "Analitik sayfama hoş geldiniz!"
+sidebar: false 
+---
+
+MUY665-İş Analitiği dersi sayfama hoş geldiniz.
+
+*Bu bölümde yapmış olduğum analitik çalışmalarımı paylaşıyor olacağım.*
